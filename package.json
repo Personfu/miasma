@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.15",
-    "next": "16.2.6",
+    "next": "16.4.1",
     "postcss": "8.5.15",
     "typescript": "6.0.3"
   },
